@@ -1,4 +1,4 @@
-# project Proposal
+# Project Proposal
 
 Team Members:
 *Steve
